@@ -1,5 +1,4 @@
 
-</head>
 <body>
   <div class="container">
     <aside class="left">
@@ -39,7 +38,7 @@
       <hr>
       <section class="section">
         <div class="section-title"><h3>Educación Secundaria Obligatoria</h3></div>
-        <div class="edu-item small">IES Moraiima (Loja) — 2019-2023</div>
+        <div class="edu-item small">IES Moraima (Loja) — 2019-2023</div>
         <div class="section-title" style="margin-top:12px"><h3>Formación Profesional</h3></div>
         <div class="edu-item small">Técnico en Sistemas Microinformáticos y Redes — IES Francisco Ayala (Granada) • 2023-2025</div>
         <div class="section-title" style="margin-top:12px"><h3>Grado Superior</h3></div>
