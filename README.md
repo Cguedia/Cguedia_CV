@@ -30,8 +30,6 @@
     .contact-list li{margin:8px 0;display:flex;align-items:flex-start}
     .contact-list li strong{min-width:88px;display:inline-block;color:#dbeaf9}
     .left-footer{margin-top:22px;font-size:12px;color:#cfe6fb}
-
-    /* right column */
     .right{background:#fff;padding:28px}
     .right-header{display:flex;align-items:center;justify-content:space-between}
     .badge{background:var(--blue);color:#fff;padding:8px 12px;border-radius:6px;font-weight:700}
@@ -40,8 +38,6 @@
     .edu-item, .job-item{margin-bottom:14px}
     .small{font-size:13px;color:var(--muted)}
     hr{border:none;border-top:1px solid #eee;margin:20px 0}
-
-    /* responsive */
     @media(max-width:780px){
       .container{grid-template-columns:1fr;max-width:560px}
       .left{order:2}
@@ -58,12 +54,10 @@
         <h1>Cristóbal Guerrero Díaz</h1>
         <h2>Desarrollador de Aplicaciones Web</h2>
       </div>
-
       <div class="section">
         <h3>Acerca de mí</h3>
         <p class="about">Soy un chico joven, organizado y responsable, con buenas relaciones y me encanta el trabajo en equipo. Siempre tengo la mejor disposición para la resolución de mis labores y tengo ambición por aprender. Busco un puesto de trabajo donde aprender en un entorno agradable.</p>
       </div>
-
       <div class="section">
         <h3>Contacto</h3>
         <ul class="contact-list">
@@ -72,17 +66,14 @@
           <li><strong>Dirección:</strong> Las Rozuelas Nº 20, Loja</li>
         </ul>
       </div>
-
       <div class="section">
         <h3>Experiencia laboral</h3>
         <ul class="extra-list">
           <li><strong>Prácticas</strong> — P.C Box 2025-2025: Instalación, configuración y mantenimiento de equipos informáticos y periféricos.</li>
         </ul>
       </div>
-
       <div class="left-footer">Disponible para incorporación inmediata</div>
     </aside>
-
     <main class="right">
       <div class="right-header">
         <div style="display:flex;flex-direction:column">
@@ -91,20 +82,15 @@
         </div>
         <div class="badge">CV - 2025</div>
       </div>
-
       <hr>
-
       <section class="section">
         <div class="section-title"><h3>Educación Secundaria Obligatoria</h3></div>
         <div class="edu-item small">IES Moraiima (Loja) — 2019-2023</div>
-
         <div class="section-title" style="margin-top:12px"><h3>Formación Profesional</h3></div>
         <div class="edu-item small">Técnico en Sistemas Microinformáticos y Redes — IES Francisco Ayala (Granada) • 2023-2025</div>
-
         <div class="section-title" style="margin-top:12px"><h3>Grado Superior</h3></div>
         <div class="edu-item small">Desarrollador de aplicaciones en Entornos Web — 2025 - Actualidad</div>
       </section>
-
       <section class="section">
         <div class="section-title"><h3>Información adicional</h3></div>
         <ul class="extra-list small">
@@ -114,14 +100,11 @@
           <li>Incorporación inmediata.</li>
         </ul>
       </section>
-
       <hr>
-
       <section class="section">
         <div class="section-title"><h3>Habilidades</h3></div>
         <p class="small">HTML, CSS, JavaScript básico, manejo de sistemas operativos e instalación y mantenimiento de hardware.</p>
       </section>
-
     </main>
   </div>
 </body>
