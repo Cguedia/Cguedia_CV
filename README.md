@@ -55,10 +55,6 @@
       </section>
       <hr>
       <section class="section">
-        <div class="section-title"><h3>Habilidades</h3></div>
-        <p class="small">HTML, CSS, JavaScript básico, manejo de sistemas operativos e instalación y mantenimiento de hardware.</p>
-      </section>
-    </main>
   </div>
 </body>
 </html>
