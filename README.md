@@ -14,9 +14,9 @@
       <div class="section">
         <h3>Contacto</h3>
         <ul class="contact-list">
-          <li><strong>Teléfono:</strong> 680191354</li>
-          <li><strong>Email:</strong> cristobal@correoegmail.com</li>
-          <li><strong>Dirección:</strong> Las Rozuelas Nº 20, Loja</li>
+          <li><strong>Teléfono:</strong> -------</li>
+          <li><strong>Email:</strong> cristobaL@gmail.com</li>
+          <li><strong>Dirección:</strong> -----------</li>
         </ul>
       </div>
       <div class="section">
