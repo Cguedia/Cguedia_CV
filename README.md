@@ -27,14 +27,6 @@
       </div>
       <div class="left-footer">Disponible para incorporación inmediata</div>
     </aside>
-    <main class="right">
-      <div class="right-header">
-        <div style="display:flex;flex-direction:column">
-          <div style="font-size:14px;color:#374151;font-weight:700">Educación</div>
-          <div class="small">Formación académica y profesional</div>
-        </div>
-        <div class="badge">CV - 2025</div>
-      </div>
       <hr>
       <section class="section">
         <div class="section-title"><h3>Educación Secundaria Obligatoria</h3></div>
